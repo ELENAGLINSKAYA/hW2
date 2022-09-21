@@ -14,6 +14,10 @@ public class Main {
         paper = paper + 4;
         System.out.println(paper);
         System.out.println(dog);
+        double dogSmall = dog - 3.5;
+        System.out.println(dogSmall);
+        cat = cat - 1.6;
+        System.out.println(cat);
         paper = ((paper + 4) - 7639);
         System.out.println(paper);
         var friend = 19;
